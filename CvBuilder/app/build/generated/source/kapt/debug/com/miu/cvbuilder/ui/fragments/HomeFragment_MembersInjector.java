@@ -31,7 +31,7 @@ public final class HomeFragment_MembersInjector implements MembersInjector<HomeF
     injectCVBuilderViewModel(instance, cVBuilderViewModelProvider.get());
   }
 
-  @InjectedFieldSignature("com.ktn.cvbuilder.ui.fragments.HomeFragment.cVBuilderViewModel")
+  @InjectedFieldSignature("com.miu.cvbuilder.ui.fragments.HomeFragment.cVBuilderViewModel")
   public static void injectCVBuilderViewModel(HomeFragment instance,
       CVBuilderViewModel cVBuilderViewModel) {
     instance.cVBuilderViewModel = cVBuilderViewModel;

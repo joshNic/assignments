@@ -29,7 +29,7 @@ public final class CVBuilderViewModel_HiltModules {
 
     @Binds
     @IntoMap
-    @StringKey("com.ktn.cvbuilder.ui.viewModels.CVBuilderViewModel")
+    @StringKey("com.miu.cvbuilder.ui.viewModels.CVBuilderViewModel")
     @HiltViewModelMap
     public abstract ViewModel binds(CVBuilderViewModel vm);
   }
@@ -44,7 +44,7 @@ public final class CVBuilderViewModel_HiltModules {
     @IntoSet
     @HiltViewModelMap.KeySet
     public static String provide() {
-      return "com.ktn.cvbuilder.ui.viewModels.CVBuilderViewModel";
+      return "com.miu.cvbuilder.ui.viewModels.CVBuilderViewModel";
     }
   }
 }

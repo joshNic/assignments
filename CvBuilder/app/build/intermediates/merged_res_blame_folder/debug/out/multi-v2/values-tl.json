@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.ktn.cvbuilder.app-mergeDebugResources-58:/values-tl/values-tl.xml",
+            "outputFile": "com.miu.cvbuilder.app-mergeDebugResources-58:/values-tl/values-tl.xml",
             "map": [
                 {
                     "source": "/Users/joshua/.gradle/caches/transforms-3/f095e4bc2caeb44329d718cf8aaf833b/transformed/core-1.8.0/res/values-tl/values-tl.xml",

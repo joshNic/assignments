@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:2:1-34:12
+ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:2:1-34:12
 MERGED from [androidx.databinding:viewbinding:7.2.0] /Users/joshua/.gradle/caches/transforms-3/ece054644e8cb9340a5baf256f7f081b/transformed/viewbinding-7.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment-testing:1.5.4] /Users/joshua/.gradle/caches/transforms-3/c609593482b20c56c257ac0a51e955d1/transformed/fragment-testing-1.5.4/AndroidManifest.xml:17:1-40:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /Users/joshua/.gradle/caches/transforms-3/61531604597f90bf9b48027243a61861/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
@@ -95,38 +95,38 @@ MERGED from [androidx.print:print:1.0.0] /Users/joshua/.gradle/caches/transforms
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/joshua/.gradle/caches/transforms-3/063b50c3e4faf0fd28142952569f99b1/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/joshua/.gradle/caches/transforms-3/1e6ee8d6dac11edd28dbfd6e4aed4236/transformed/dagger-lint-aar-2.44/AndroidManifest.xml:16:1-19:12
 MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/joshua/.gradle/caches/transforms-3/c499635c66a9bc245749669c921539de/transformed/installreferrer-1.0/AndroidManifest.xml:2:1-13:12
-INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:2:1-34:12
 	package
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:4:11-38
-		INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:4:11-38
+		INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:2:1-34:12
-		INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:3:11-57
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:3:11-57
 	android:versionCode
-		INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:2:1-34:12
-		INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:6:5-66
+ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#com.google.android.gms.permission.AD_ID
-ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:7:5-98
+ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:7:5-98
 REJECTED from [com.facebook.android:facebook-core:15.1.0] /Users/joshua/.gradle/caches/transforms-3/90a5cc1ffee69bb924c5a390f5ea4bac/transformed/facebook-core-15.1.0/AndroidManifest.xml:16:5-79
 	tools:node
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:7:77-96
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:7:77-96
 	android:name
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:7:22-76
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:7:22-76
 application
-ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:10:5-32:19
+ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:10:5-32:19
 MERGED from [androidx.fragment:fragment-testing:1.5.4] /Users/joshua/.gradle/caches/transforms-3/c609593482b20c56c257ac0a51e955d1/transformed/fragment-testing-1.5.4/AndroidManifest.xml:27:5-38:19
 MERGED from [androidx.fragment:fragment-testing:1.5.4] /Users/joshua/.gradle/caches/transforms-3/c609593482b20c56c257ac0a51e955d1/transformed/fragment-testing-1.5.4/AndroidManifest.xml:27:5-38:19
 MERGED from [com.google.android.material:material:1.7.0] /Users/joshua/.gradle/caches/transforms-3/17c3b4f18f521a9105298f3281715b97/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
@@ -178,49 +178,49 @@ MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/joshua/.gra
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] /Users/joshua/.gradle/caches/transforms-3/f095e4bc2caeb44329d718cf8aaf833b/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:18:13-39
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:18:13-39
 	android:label
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:16:13-45
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:16:13-45
 	android:fullBackupContent
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:14:13-58
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:14:13-58
 	android:roundIcon
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:17:13-58
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:17:13-58
 	tools:targetApi
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:20:13-33
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:20:13-33
 	android:icon
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:15:13-47
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:15:13-47
 	android:allowBackup
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:12:13-39
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:12:13-39
 	android:theme
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:19:13-51
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:19:13-51
 	android:dataExtractionRules
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:13:13-69
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:13:13-69
 	android:name
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:11:13-49
-activity#com.ktn.cvbuilder.MainActivity
-ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:21:9-31:20
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:11:13-66
+activity#com.miu.cvbuilder.MainActivity
+ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:21:9-31:20
 	android:label
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:24:17-49
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:24:17-49
 	android:exported
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:23:17-40
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:23:17-40
 	android:theme
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:25:17-67
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:25:17-67
 	android:name
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:22:17-45
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:22:17-62
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:26:13-30:29
+ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:27:17-68
+ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:27:17-68
 	android:name
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:27:25-66
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:29:17-76
+ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:29:17-76
 	android:name
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:29:27-74
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:29:27-74
 uses-sdk
-INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
-INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.2.0] /Users/joshua/.gradle/caches/transforms-3/ece054644e8cb9340a5baf256f7f081b/transformed/viewbinding-7.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:viewbinding:7.2.0] /Users/joshua/.gradle/caches/transforms-3/ece054644e8cb9340a5baf256f7f081b/transformed/viewbinding-7.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment-testing:1.5.4] /Users/joshua/.gradle/caches/transforms-3/c609593482b20c56c257ac0a51e955d1/transformed/fragment-testing-1.5.4/AndroidManifest.xml:20:5-23:54
@@ -403,18 +403,18 @@ MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/joshua/.gradle/cache
 MERGED from [com.google.dagger:dagger-lint-aar:2.44] /Users/joshua/.gradle/caches/transforms-3/1e6ee8d6dac11edd28dbfd6e4aed4236/transformed/dagger-lint-aar-2.44/AndroidManifest.xml:18:3-42
 MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/joshua/.gradle/caches/transforms-3/c499635c66a9bc245749669c921539de/transformed/installreferrer-1.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/joshua/.gradle/caches/transforms-3/c499635c66a9bc245749669c921539de/transformed/installreferrer-1.0/AndroidManifest.xml:5:5-7:41
-INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
-INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [androidx.fragment:fragment-testing:1.5.4] /Users/joshua/.gradle/caches/transforms-3/c609593482b20c56c257ac0a51e955d1/transformed/fragment-testing-1.5.4/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
-		ADDED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.REORDER_TASKS
 ADDED from [androidx.fragment:fragment-testing:1.5.4] /Users/joshua/.gradle/caches/transforms-3/c609593482b20c56c257ac0a51e955d1/transformed/fragment-testing-1.5.4/AndroidManifest.xml:25:5-72
 MERGED from [androidx.test:core:1.4.0] /Users/joshua/.gradle/caches/transforms-3/6dc71c1c970ee3a512eb5a556c6d27b5/transformed/core-1.4.0/AndroidManifest.xml:24:5-72

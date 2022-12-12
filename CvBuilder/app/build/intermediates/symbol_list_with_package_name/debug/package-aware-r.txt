@@ -1,4 +1,4 @@
-com.ktn.cvbuilder
+com.miu.cvbuilder
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -2695,13 +2695,11 @@ drawable com_facebook_tooltip_blue_background
 drawable com_facebook_tooltip_blue_bottomnub
 drawable com_facebook_tooltip_blue_topnub
 drawable com_facebook_tooltip_blue_xout
-drawable cv_logo
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
-drawable facebook_icn
 drawable food
 drawable ic_clock_black_24dp
 drawable ic_image

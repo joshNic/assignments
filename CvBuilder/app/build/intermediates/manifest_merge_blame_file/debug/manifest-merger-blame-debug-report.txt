@@ -6,13 +6,13 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
+8-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml
+9-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:6:5-66
-11-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:6:22-64
+11-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:6:5-66
+11-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:6:22-64
 12    <uses-permission android:name="android.permission.REORDER_TASKS" />
 12-->[androidx.fragment:fragment-testing:1.5.4] /Users/joshua/.gradle/caches/transforms-3/c609593482b20c56c257ac0a51e955d1/transformed/fragment-testing-1.5.4/AndroidManifest.xml:25:5-72
 12-->[androidx.fragment:fragment-testing:1.5.4] /Users/joshua/.gradle/caches/transforms-3/c609593482b20c56c257ac0a51e955d1/transformed/fragment-testing-1.5.4/AndroidManifest.xml:25:22-69
@@ -38,48 +38,48 @@
 21-->[com.android.installreferrer:installreferrer:1.0] /Users/joshua/.gradle/caches/transforms-3/c499635c66a9bc245749669c921539de/transformed/installreferrer-1.0/AndroidManifest.xml:9:22-107
 22
 23    <application
-23-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:10:5-32:19
-24        android:name="com.ktn.cvbuilder.CvBuilderApplication"
-24-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:11:13-49
+23-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:10:5-32:19
+24        android:name="com.miu.cvbuilder.CvBuilderApplication"
+24-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:11:13-66
 25        android:allowBackup="true"
-25-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:12:13-39
+25-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:12:13-39
 26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 26-->[androidx.core:core:1.8.0] /Users/joshua/.gradle/caches/transforms-3/f095e4bc2caeb44329d718cf8aaf833b/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 27        android:dataExtractionRules="@xml/data_extraction_rules"
-27-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:13:13-69
+27-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:13:13-69
 28        android:debuggable="true"
 29        android:fullBackupContent="@xml/backup_rules"
-29-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:14:13-58
+29-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:14:13-58
 30        android:icon="@mipmap/ic_launcher"
-30-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:15:13-47
+30-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:15:13-47
 31        android:label="@string/app_name"
-31-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:16:13-45
+31-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:16:13-45
 32        android:roundIcon="@mipmap/ic_launcher_round"
-32-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:17:13-58
+32-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:17:13-58
 33        android:supportsRtl="true"
-33-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:18:13-39
+33-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:18:13-39
 34        android:testOnly="true"
 35        android:theme="@style/Theme.CvBuilder" >
-35-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:19:13-51
+35-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:19:13-51
 36        <activity
-36-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:21:9-31:20
-37            android:name="com.ktn.cvbuilder.MainActivity"
-37-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:22:17-45
+36-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:21:9-31:20
+37            android:name="com.miu.cvbuilder.MainActivity"
+37-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:22:17-62
 38            android:exported="true"
-38-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:23:17-40
+38-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:23:17-40
 39            android:label="@string/app_name"
-39-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:24:17-49
+39-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:24:17-49
 40            android:theme="@style/Theme.CvBuilder.NoActionBar" >
-40-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:25:17-67
+40-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:25:17-67
 41            <intent-filter>
-41-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:26:13-30:29
+41-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:26:13-30:29
 42                <action android:name="android.intent.action.MAIN" />
-42-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:27:17-68
-42-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:27:25-66
+42-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:27:17-68
+42-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:27:25-66
 43
 44                <category android:name="android.intent.category.LAUNCHER" />
-44-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:29:17-76
-44-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:29:27-74
+44-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:29:17-76
+44-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:29:27-74
 45            </intent-filter>
 46        </activity>
 47        <activity
@@ -97,8 +97,8 @@
 53            <intent-filter>
 53-->[androidx.fragment:fragment-testing:1.5.4] /Users/joshua/.gradle/caches/transforms-3/c609593482b20c56c257ac0a51e955d1/transformed/fragment-testing-1.5.4/AndroidManifest.xml:34:13-36:29
 54                <action android:name="android.intent.action.MAIN" />
-54-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:27:17-68
-54-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:27:25-66
+54-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:27:17-68
+54-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:27:25-66
 55            </intent-filter>
 56        </activity>
 57        <activity
@@ -217,8 +217,8 @@
 121            <intent-filter>
 121-->[androidx.fragment:fragment-testing:1.5.4] /Users/joshua/.gradle/caches/transforms-3/c609593482b20c56c257ac0a51e955d1/transformed/fragment-testing-1.5.4/AndroidManifest.xml:34:13-36:29
 122                <action android:name="android.intent.action.MAIN" />
-122-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:27:17-68
-122-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:27:25-66
+122-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:27:17-68
+122-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:27:25-66
 123            </intent-filter>
 124        </activity>
 125        <activity
@@ -232,8 +232,8 @@
 129            <intent-filter>
 129-->[androidx.fragment:fragment-testing:1.5.4] /Users/joshua/.gradle/caches/transforms-3/c609593482b20c56c257ac0a51e955d1/transformed/fragment-testing-1.5.4/AndroidManifest.xml:34:13-36:29
 130                <action android:name="android.intent.action.MAIN" />
-130-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:27:17-68
-130-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:27:25-66
+130-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:27:17-68
+130-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:27:25-66
 131            </intent-filter>
 132        </activity>
 133        <activity
@@ -247,8 +247,8 @@
 137            <intent-filter>
 137-->[androidx.fragment:fragment-testing:1.5.4] /Users/joshua/.gradle/caches/transforms-3/c609593482b20c56c257ac0a51e955d1/transformed/fragment-testing-1.5.4/AndroidManifest.xml:34:13-36:29
 138                <action android:name="android.intent.action.MAIN" />
-138-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:27:17-68
-138-->/Users/joshua/StudioProjects/Cv-Builder/app/src/main/AndroidManifest.xml:27:25-66
+138-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:27:17-68
+138-->/Users/joshua/AndroidStudioProjects/Assignments/CvBuilder/app/src/main/AndroidManifest.xml:27:25-66
 139            </intent-filter>
 140        </activity>
 141

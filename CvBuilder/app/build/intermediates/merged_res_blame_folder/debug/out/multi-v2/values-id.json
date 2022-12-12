@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.ktn.cvbuilder.app-mergeDebugResources-58:/values-id/values-id.xml",
+            "outputFile": "com.miu.cvbuilder.app-mergeDebugResources-58:/values-id/values-id.xml",
             "map": [
                 {
                     "source": "/Users/joshua/.gradle/caches/transforms-3/726ad4c669746cae66a00fc07b08bf83/transformed/facebook-common-15.1.0/res/values-id/values-id.xml",

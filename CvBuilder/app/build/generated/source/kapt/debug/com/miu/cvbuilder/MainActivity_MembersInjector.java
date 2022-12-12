@@ -31,7 +31,7 @@ public final class MainActivity_MembersInjector implements MembersInjector<MainA
     injectFragmentFactory(instance, fragmentFactoryProvider.get());
   }
 
-  @InjectedFieldSignature("com.ktn.cvbuilder.MainActivity.fragmentFactory")
+  @InjectedFieldSignature("com.miu.cvbuilder.MainActivity.fragmentFactory")
   public static void injectFragmentFactory(MainActivity instance,
       CvFragmentFactory fragmentFactory) {
     instance.fragmentFactory = fragmentFactory;

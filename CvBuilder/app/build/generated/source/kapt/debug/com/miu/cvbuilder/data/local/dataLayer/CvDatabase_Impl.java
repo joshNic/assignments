@@ -4,13 +4,19 @@ import androidx.annotation.NonNull;
 import androidx.room.DatabaseConfiguration;
 import androidx.room.InvalidationTracker;
 import androidx.room.RoomOpenHelper;
+import androidx.room.RoomOpenHelper.Delegate;
+import androidx.room.RoomOpenHelper.ValidationResult;
 import androidx.room.migration.AutoMigrationSpec;
 import androidx.room.migration.Migration;
 import androidx.room.util.DBUtil;
 import androidx.room.util.TableInfo;
+import androidx.room.util.TableInfo.Column;
+import androidx.room.util.TableInfo.ForeignKey;
+import androidx.room.util.TableInfo.Index;
 import androidx.sqlite.db.SupportSQLiteDatabase;
 import androidx.sqlite.db.SupportSQLiteOpenHelper;
-
+import androidx.sqlite.db.SupportSQLiteOpenHelper.Callback;
+import androidx.sqlite.db.SupportSQLiteOpenHelper.Configuration;
 import com.miu.cvbuilder.data.local.dataLayer.daos.CertificationDao;
 import com.miu.cvbuilder.data.local.dataLayer.daos.CertificationDao_Impl;
 import com.miu.cvbuilder.data.local.dataLayer.daos.ContactDao;
@@ -114,7 +120,7 @@ public final class CvDatabase_Impl extends CvDatabase {
         final TableInfo _infoCertificationTable = new TableInfo("certification_table", _columnsCertificationTable, _foreignKeysCertificationTable, _indicesCertificationTable);
         final TableInfo _existingCertificationTable = TableInfo.read(_db, "certification_table");
         if (! _infoCertificationTable.equals(_existingCertificationTable)) {
-          return new RoomOpenHelper.ValidationResult(false, "certification_table(com.ktn.cvbuilder.data.local.dataLayer.entities.CertificationTable).\n"
+          return new RoomOpenHelper.ValidationResult(false, "certification_table(com.miu.cvbuilder.data.local.dataLayer.entities.CertificationTable).\n"
                   + " Expected:\n" + _infoCertificationTable + "\n"
                   + " Found:\n" + _existingCertificationTable);
         }
@@ -130,7 +136,7 @@ public final class CvDatabase_Impl extends CvDatabase {
         final TableInfo _infoContactTable = new TableInfo("contact_table", _columnsContactTable, _foreignKeysContactTable, _indicesContactTable);
         final TableInfo _existingContactTable = TableInfo.read(_db, "contact_table");
         if (! _infoContactTable.equals(_existingContactTable)) {
-          return new RoomOpenHelper.ValidationResult(false, "contact_table(com.ktn.cvbuilder.data.local.dataLayer.entities.ContactTable).\n"
+          return new RoomOpenHelper.ValidationResult(false, "contact_table(com.miu.cvbuilder.data.local.dataLayer.entities.ContactTable).\n"
                   + " Expected:\n" + _infoContactTable + "\n"
                   + " Found:\n" + _existingContactTable);
         }
@@ -145,7 +151,7 @@ public final class CvDatabase_Impl extends CvDatabase {
         final TableInfo _infoEducationTable = new TableInfo("education_table", _columnsEducationTable, _foreignKeysEducationTable, _indicesEducationTable);
         final TableInfo _existingEducationTable = TableInfo.read(_db, "education_table");
         if (! _infoEducationTable.equals(_existingEducationTable)) {
-          return new RoomOpenHelper.ValidationResult(false, "education_table(com.ktn.cvbuilder.data.local.dataLayer.entities.EducationTable).\n"
+          return new RoomOpenHelper.ValidationResult(false, "education_table(com.miu.cvbuilder.data.local.dataLayer.entities.EducationTable).\n"
                   + " Expected:\n" + _infoEducationTable + "\n"
                   + " Found:\n" + _existingEducationTable);
         }
@@ -165,7 +171,7 @@ public final class CvDatabase_Impl extends CvDatabase {
         final TableInfo _infoWorkTable = new TableInfo("work_table", _columnsWorkTable, _foreignKeysWorkTable, _indicesWorkTable);
         final TableInfo _existingWorkTable = TableInfo.read(_db, "work_table");
         if (! _infoWorkTable.equals(_existingWorkTable)) {
-          return new RoomOpenHelper.ValidationResult(false, "work_table(com.ktn.cvbuilder.data.local.dataLayer.entities.WorkTable).\n"
+          return new RoomOpenHelper.ValidationResult(false, "work_table(com.miu.cvbuilder.data.local.dataLayer.entities.WorkTable).\n"
                   + " Expected:\n" + _infoWorkTable + "\n"
                   + " Found:\n" + _existingWorkTable);
         }
@@ -178,7 +184,7 @@ public final class CvDatabase_Impl extends CvDatabase {
         final TableInfo _infoUser = new TableInfo("user", _columnsUser, _foreignKeysUser, _indicesUser);
         final TableInfo _existingUser = TableInfo.read(_db, "user");
         if (! _infoUser.equals(_existingUser)) {
-          return new RoomOpenHelper.ValidationResult(false, "user(com.ktn.cvbuilder.data.local.dataLayer.entities.UserTable).\n"
+          return new RoomOpenHelper.ValidationResult(false, "user(com.miu.cvbuilder.data.local.dataLayer.entities.UserTable).\n"
                   + " Expected:\n" + _infoUser + "\n"
                   + " Found:\n" + _existingUser);
         }
