@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ktn.cvbuilder.app-mergeDebugResources-58:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/joshua/.gradle/caches/transforms-3/f095e4bc2caeb44329d718cf8aaf833b/transformed/core-1.8.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/joshua/.gradle/caches/transforms-3/49eef9dbf55f566eca2d8c8555f7ec09/transformed/appcompat-1.5.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

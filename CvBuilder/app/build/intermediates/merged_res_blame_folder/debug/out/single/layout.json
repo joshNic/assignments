@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-mergeDebugResources-59:/layout/fragment_login.xml",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-mergeDebugResources-59:/layout/fragment_holder.xml",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/fragment_holder.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-mergeDebugResources-59:/layout/fragment_home.xml",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-mergeDebugResources-59:/layout/fragment_main.xml",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-mergeDebugResources-59:/layout/fragment_about_me.xml",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/fragment_about_me.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-mergeDebugResources-59:/layout/item_certification.xml",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/item_certification.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-mergeDebugResources-59:/layout/dialog_add_item.xml",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/dialog_add_item.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-mergeDebugResources-59:/layout/item_experience.xml",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/item_experience.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-mergeDebugResources-59:/layout/fragment_work.xml",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/fragment_work.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-mergeDebugResources-59:/layout/fragment_contact.xml",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/fragment_contact.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-mergeDebugResources-59:/layout/item_contact.xml",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/item_contact.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-mergeDebugResources-59:/layout/item_education.xml",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/item_education.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-mergeDebugResources-59:/layout/fragment_signup.xml",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-mergeDebugResources-59:/layout/activity_main.xml",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ktn.cvbuilder.app-mergeDebugResources-59:/layout/fragment_home.xml",
+        "source": "com.ktn.cvbuilder.app-main-62:/layout/fragment_home.xml"
+    }
+]

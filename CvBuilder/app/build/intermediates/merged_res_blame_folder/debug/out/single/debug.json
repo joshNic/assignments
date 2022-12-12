@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/navigation_nav_graph.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_ic_image.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/ic_image.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_icn_oracle.png.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/icn_oracle.png"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/layout_fragment_main.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_icn_linkedin.png.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/icn_linkedin.png"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_icn_mail.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/icn_mail.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_icn_mcf.png.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/icn_mcf.png"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/layout_fragment_work.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/fragment_work.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/layout_item_education.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/item_education.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/layout_fragment_home.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_icn_pdf.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/icn_pdf.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/layout_item_certification.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/item_certification.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_icn_mit.png.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/icn_mit.png"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_icn_google.png.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/icn_google.png"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_icn_ibm.png.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/icn_ibm.png"
+    },
+    {
+        "merged": "com.ktn.cvbuilder.app-merged_res-60:/layout_fragment_home.xml.flat",
+        "source": "com.ktn.cvbuilder.app-main-62:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/xml_backup_rules.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/layout_item_experience.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/item_experience.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_icn_github.png.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/icn_github.png"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_icn_phone.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/icn_phone.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/layout_item_contact.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/item_contact.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/layout_dialog_add_item.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/dialog_add_item.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/layout_fragment_contact.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/fragment_contact.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/layout_fragment_holder.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/fragment_holder.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_food.jpg.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/food.jpg"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_icn_add.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/icn_add.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_icn_maharishi.png.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/icn_maharishi.png"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/layout_fragment_login.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/layout_activity_main.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_icn_person.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/icn_person.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_facebook_icn.png.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/facebook_icn.png"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-pngs-55:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/drawable_cv_logo.png.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/drawable/cv_logo.png"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/layout_fragment_signup.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-merged_res-60:/layout_fragment_about_me.xml.flat",
+        "source": "/Users/joshua/.gradle/daemon/7.3.3/com.ktn.cvbuilder.app-main-62:/layout/fragment_about_me.xml"
+    }
+]

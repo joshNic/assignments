@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="primary">#0080FF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="secondary">#0080FF</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="transparent">#80FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="about_me">About Me</string>
+    <string name="app_name">CV Builder</string>
+    <string name="career_note">Career Note</string>
+    <string name="career_note_text"><b>Lorem</b> Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="certifications">Certifications</string>
+    <string name="create_account">Create Account</string>
+    <string name="education">Education</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="my_contacts">My Contacts</string>
+    <string name="password">Password</string>
+    <string name="phone_sample">+1(641)555-5555</string>
+    <string name="signup">SignUp</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="username">Username</string>
+    <string name="work_experience">Work Experience</string>
+    <string name="work_experience_text"><b>Languages:</b> Java, JavaScript, PL/SQL\n<b>Frameworks/Web:</b> Spring(Boot,MVC,Security), Hibernate, JDBC\n<b>MicroServices/Cloud:</b> AWS,GCP,Docker,Kubernetes,Kafka\n<b>Databases:</b> Oracle PL/SQL,MySQL,MongoDB\n<b>Tools:</b> Intellij IDEA,Maven,Github,Gitlab,UML</string>
+    <style name="FacebookLoginButton">
+        <item name="android:textSize">20dp</item>
+        <item name="android:background">@drawable/facebook_icn</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+    <style name="Theme.CvBuilder" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/secondary</item>
+        <item name="colorPrimaryVariant">@color/primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Theme.CvBuilder.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.CvBuilder.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.CvBuilder.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="custom_outline" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxBackgroundMode">outline</item>
+        <item name="boxCornerRadiusBottomEnd">32dp</item>
+        <item name="boxCornerRadiusBottomStart">32dp</item>
+        <item name="boxCornerRadiusTopEnd">32dp</item>
+        <item name="boxCornerRadiusTopStart">32dp</item>
+    </style>
+    <style name="roundedIcnView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">28dp</item>
+    </style>
+    <style name="roundedImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">87dp</item>
+    </style>
+</resources>
